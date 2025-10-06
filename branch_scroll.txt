@@ -1,0 +1,10 @@
+git branch scroll
+git checkout scroll
+
+//or used for the two:
+git checkout -b scroll
+
+//delete the branch scroll
+git branch -d scroll
+// if scroll was full
+git branch -D scroll
