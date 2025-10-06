@@ -11,3 +11,9 @@ git branch -D scroll
 
 //rename branch scroll to devlopement
 git branch -m devlopement
+
+//merge 
+git branch -m scroll
+
+git branch main
+git merge scroll // clean scroll move it to main
