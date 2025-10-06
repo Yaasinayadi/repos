@@ -17,3 +17,14 @@ git branch -m scroll
 
 git branch main
 git merge scroll // clean scroll move it to main
+git branch -d scroll // delete scroll
+
+//Another method
+git checkout -b scroll
+
+git add *
+git commit -m ".."
+git push '-u' origin scroll
+
+git checkout main
+git branch -D scroll // remove the full scroll without merge
