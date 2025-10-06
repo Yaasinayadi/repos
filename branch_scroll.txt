@@ -25,4 +25,5 @@ git checkout -b scroll
 git add *
 git commit -m "..."
 git push origin scroll
-git branch -D scroll
+git checkout main
+git branch -D scroll // delete the full branch
