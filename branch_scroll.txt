@@ -8,3 +8,6 @@ git checkout -b scroll
 git branch -d scroll
 // if scroll was full
 git branch -D scroll
+
+//rename branch scroll to devlopement
+git branch -m devlopement
