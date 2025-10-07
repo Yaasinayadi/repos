@@ -40,4 +40,5 @@ git commit -m "..."
 git push origin scroll
 git checkout main
 git branch -D scroll // delete the full branch
+//last step goto GitHub and merge pull request
 >>>>>>> 049b907912b84564712d380434e02aa3020b9533
