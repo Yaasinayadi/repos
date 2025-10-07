@@ -3,4 +3,5 @@ body {
     padding: 0;
     box-sizing: border-box;
     max-height: 1800px;
+    max-width: 1200px;
 }
